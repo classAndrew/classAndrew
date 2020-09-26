@@ -1,8 +1,8 @@
 ### 
 
-<p align="center"> 
-  Hi
-</p> 
+<h1 align="center"> 
+  Hi there 👋. Welcome to Andrew's Github!
+</h1> 
 <p align="center"> 
   <br />
   <img src="https://starbounder.org/mediawiki/images/3/3e/Bunny.gif" width=300 height=300 />
