@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center"> 
-  Hi there 👋. Welcome to Andrew's Github!
+  Hi there 👋 Welcome to Andrew's Github!
 </h1> 
 <p align="center"> 
   <br />
