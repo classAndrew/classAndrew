@@ -11,5 +11,6 @@
 - My Site: [website]
 - 📫 How to reach me: Email me.
 - ⚡ Fun fact: I enjoy writing programs for Minecraft computer mods (Opencomputers & Computer Craft).
+- ◤ What I'm working on: Just currently messing with OpenGL stuff
 
 [website]: https://and-rew.codes
