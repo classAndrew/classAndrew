@@ -12,5 +12,6 @@
 - 📫 How to reach me: Email me.
 - ⚡ Fun fact: I enjoy writing programs for Minecraft computer mods (Opencomputers & Computer Craft).
 - ◤ What I'm working on: Just currently messing with OpenGL stuff
+- 🎮 Minecraft and Starbound are my favorite video games
 
 [website]: https://and-rew.codes
