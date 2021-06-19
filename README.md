@@ -5,7 +5,7 @@
 </h1> 
 <p align="center"> 
   <br />
-  <img src="https://starbounder.org/mediawiki/images/3/3e/Bunny.gif" width=225 height=225 />
+  <img src="https://starbounder.org/mediawiki/images/3/3e/Bunny.gif" width=128 height=128 />
 </p> 
 
 - My Site: [website]
