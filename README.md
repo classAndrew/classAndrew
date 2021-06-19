@@ -14,4 +14,4 @@
 - ◤ What I'm working on: Just currently messing with OpenGL stuff
 - 🎮 Minecraft and Starbound are my favorite video games
 
-[website]: https://and-rew.codes
+[website]: https://andw.me
