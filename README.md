@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center"> 
-  Hi there 👋 Welcome to Andrew's Github!
+  Andrew's Github!
 </h1> 
 <p align="center"> 
   <br />
@@ -14,4 +14,4 @@
 - ◤ What I'm working on: Just currently messing with OpenGL stuff
 - 🎮 Minecraft and Starbound are my favorite video games
 
-[website]: https://andw.me
+[website]: https://andw.xyz
