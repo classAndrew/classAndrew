@@ -1,7 +1,7 @@
 ### 
 
 <h1 align="center"> 
-  Andrew's Github!
+  Andrew's Github
 </h1> 
 <p align="center"> 
   <br />
